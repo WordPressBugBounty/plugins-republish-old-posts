@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: https://infolific.com/technology/software-worth-using/republish-old-posts-for-wordpress/#pro-version
 Tags: republish, republishing, old post promoter, post promoter
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 License: GPLv2 or later
 
 Republish old posts automatically by resetting the date to the current date. Promote old posts to users that haven't seen them.
